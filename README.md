@@ -29,7 +29,7 @@ const Piyanshu = {
 - 🤖 Scikit-learn, NumPy, Pandas
 
 **Tools, Hosting & Others:**
-- 🔧 Git, Postman, Heroku, Vercel, Python Anywhere
+- 🔧 Git, Postman, Heroku, Vercel, Python Anywhere, Figma, CMS..
 
 
 
