@@ -9,7 +9,7 @@ const Piyanshu = {
     "Crafting 🔥 UIs",
     "Data Diving",
   ],
-  currentQuest: "Leveling up DSA in Python, ML Exploring..",
+  currentQuest: "Leveling up DSA in Python, Data Exploring..",
   motto: "Push limits. Innovate. Repeat. 🚀"
   openTo: "Collaborations🤝"
 };
