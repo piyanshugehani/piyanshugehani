@@ -25,11 +25,11 @@ const Piyanshu = {
 **Databases:**
 - 🗄️ MongoDB, MySQL, PostgreSQL, SQLite
 
-**Data:**
-- 🤖 Scikit-learn, NumPy, Pandas
+**Data/AI:**
+- 🤖 Scikit-learn, NumPy, Pandas, NLP
 
 **Tools, Hosting & Others:**
-- 🔧 Git, Postman, Heroku, Vercel, Python Anywhere, Figma, CMS..
+- 🔧 Git, Postman, Heroku, Vercel, Python Anywhere, Railway, Figma, CMS
 
 
 
