@@ -4,14 +4,14 @@ Hey, I’m Piyanshu! I’m all about crafting slick, functional web experiences 
 
 ```js
 const Piyanshu = {
-  role: "Full Stack, Python Dev",
+  role: "Full Stack | Python Dev 🛠️",
   skills: [
-    "Crafting 🔥 UIs",
-    "Data Diving",
+    "Crafting UIs🔥",
+    "Tinkering with DSA & Data🧩",
   ],
-  currentQuest: "Leveling up DSA in Python, Data Exploring..",
-  motto: "Push limits. Innovate. Repeat. 🚀"
-  openTo: "Collaborations🤝"
+  currentQuest: "Leveling up DSA in Python, and diving deep into GenAI🚀",
+  motto: "Push limits. Innovate. Repeat.💡"
+  openTo: "Collaborations and cool projects 🤝"
 };
 ```
 
