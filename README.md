@@ -6,8 +6,8 @@ Hey, I’m Piyanshu! I’m all about crafting slick, functional web experiences 
 const AboutMe = {
   role: "Full Stack | Python Dev 🛠️",
   skills: [
-    "Crafting UIs🔥",
-    "Tinkering with DSA & Data🧩",
+    "Crafting applications with crazy user experiences🔥",
+    "Tinkering with Data and LLMs🧩",
   ],
   currentQuest: "Leveling up DSA in Python, and diving deep into GenAI🚀",
   motto: "Push limits. Innovate. Repeat.💡"
@@ -16,21 +16,17 @@ const AboutMe = {
 ```
 
 **Frontend:**
-- ⚛️ React, Redux, Next.js, Framer
-- 🎨 HTML, CSS, Bootstrap CSS, Tailwind CSS, JavaScript
+- ⚛️ React, Redux, Next.js, Three.js, Framer, Gsap
+- 🎨 HTML, CSS, Bootstrap CSS, Tailwind CSS, JavaScript, TypeScript
 
 **Backend:**
 - 🐍 Python (Django, Flask)
 
 **Databases:**
-- 🗄️ MongoDB, MySQL, PostgreSQL, SQLite
+- 🗄️  MySQL, Postgres, SQLite, MongoDB
 
 **Data/AI:**
-- 🤖 Scikit-learn, NumPy, Pandas, NLP
+- 🤖 Scikit-learn, NumPy, Pandas, NLP, LLMs
 
 **Tools, Hosting & Others:**
-- 🔧 Git, Postman, Heroku, Vercel, Python Anywhere, Railway, Figma, CMS
-
-
-
-
+- 🔧 Git & GitLab, Postman API, Heroku, Vercel, Railway, Figma, CMS
