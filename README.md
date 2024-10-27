@@ -10,7 +10,7 @@ const AboutMe = {
     "Tinkering with Data and LLMs🧩",
   ],
   currentQuest: "Leveling up DSA in Python, and diving deep into GenAI🚀",
-  motto: "Push limits. Innovate. Repeat.💡"
+  motto: "Push limits. Innovate. Repeat.💡",
   openTo: "Collaborations and cool projects 🤝"
 };
 ```
