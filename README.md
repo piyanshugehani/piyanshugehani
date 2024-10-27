@@ -1,5 +1,3 @@
-**👾 Code Alchemist | Tech Nerd**
-
 Hey, I’m Piyanshu! I’m all about crafting slick, functional web experiences and diving deep into data and GenAI. Whether I’m building next-level UIs or cracking algorithms in Python, I’m here to make tech smarter, one line of code at a time. Let’s connect and create something groundbreaking! 💡💻
 
 ```js
