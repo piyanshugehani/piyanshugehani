@@ -15,10 +15,10 @@ const AboutMe = {
 
 **Frontend:**
 - ⚛️ React, Redux, Next.js, Three.js, Framer, Gsap
-- 🎨 HTML, CSS, Bootstrap CSS, Tailwind CSS, JavaScript, TypeScript
+- 🎨 HTML, CSS, Tailwind, JavaScript, TypeScript
 
 **Backend:**
-- 🐍 Python (Django, Flask)
+- 🐍 Python (Django, Flask), Node.js
 
 **Databases:**
 - 🗄️  MySQL, Postgres, SQLite, MongoDB
