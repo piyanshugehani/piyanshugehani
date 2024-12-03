@@ -2,12 +2,12 @@ Hey, I’m Piyanshu! I’m all about crafting slick, functional web experiences 
 
 ```js
 const AboutMe = {
-  role: "Full Stack | Python Dev 🛠️",
+  role: "Full Stack | Python Dev | GenAI 🛠️",
   skills: [
     "Crafting applications with crazy user experiences🔥",
     "Tinkering with Data and LLMs🧩",
   ],
-  currentQuest: "Leveling up DSA in Python, and diving deep into GenAI🚀",
+  currentQuest: "Leveling up DSA in Python🚀",
   motto: "Push limits. Innovate. Repeat.💡",
   openTo: "Collaborations and cool projects 🤝"
 };
