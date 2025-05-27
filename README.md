@@ -1,15 +1,18 @@
-Hey, I’m Piyanshu! I’m all about crafting slick, functional web experiences and diving deep into data and GenAI. Whether I’m building next-level UIs or cracking algorithms in Python, I’m here to make tech smarter, one line of code at a time. Let’s connect and create something groundbreaking! 💡💻
+Hey, I’m Piyanshu!
+I’m passionate about building slick, scalable web & mobile apps, exploring the power of GenAI and data, and solving problems that matter. Whether I’m designing next-gen UIs or optimizing algorithms in Python, I aim to make tech faster, smarter, and more impactful—one line of code at a time.
+
+Let’s connect and build something that truly stands out. 💡💻
 
 ```js
 const AboutMe = {
-  role: "Full Stack | Python Dev | GenAI 🛠️",
+  role: "Full Stack Dev | AI Tinkerer",
   skills: [
-    "Crafting applications with crazy user experiences🔥",
-    "Tinkering with Data and LLMs🧩",
+    "Turning complex ideas into smooth, usable products",
+    "Working with data, LLMs, and end-to-end systems",
   ],
-  currentQuest: "Leveling up DSA in Python🚀",
-  motto: "Push limits. Innovate. Repeat.💡",
-  openTo: "Collaborations and cool projects 🤝"
+  currentQuest: "Leveling up DSA & exploring more GenAI use cases",
+  motto: "Build with intent. Learn fast. Ship impact.",
+  openTo: "Projects, collabs, and cool experiments"
 };
 ```
 
