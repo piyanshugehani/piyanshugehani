@@ -128,15 +128,28 @@
 - 🔗 [Clist Profile](https://clist.by/piyanshu_g)
 
 ---
+**💼 Prev: Kothari Tech Pvt. Ltd. – SDE**  
+**React.js, Redux Toolkit, MUI, Django, PostgreSQL**  
+- Scaled seller and admin panel for an ecommerce platform (2K+ daily users)  
+- Integrated OTP-auth, filters, analytics dashboards  
+- Reduced load time by 55%, added async polling + lazy loading  
+- Modularized state logic using **Redux Toolkit slices + Thunk middleware** for efficient async flows and code maintainability
 
 🔭 **Currently building:**  
 **CARE – Critical AI Response Engine**  
-A real-time emergency response system with vector-based classification, WebSocket-based state sync, geospatial mapping via PostGIS, and message queues using FastAPI + RabbitMQ.
 
+A real-time emergency response system featuring:  
+- **Vector-based classification** using Sentence Transformers  
+- **WebSocket-based state sync and Geospatial mapping** via PostGIS  
+- **Event-driven queues** with FastAPI + RabbitMQ
+  
 🧪 **Also working on:**  
 **Hybrid API Log Classification System**  
-Built a hybrid pipeline combining **regex**, **Sentence-BERT + Logistic Regression**, and **LLM few-shot prompting** to classify both structured and ambiguous logs.  
-Achieved **90%+ accuracy** using dynamic routing and fallback logic, with **LIME**-based local interpretability to explain predictions in real time.
+
+Built a hybrid pipeline combining:  
+- **Regex**, **Sentence-BERT + Logistic Regression**, and **LLM few-shot prompting**  
+- Achieved **90%+ accuracy** across structured & ambiguous logs  
+- Includes **dynamic routing**, intelligent fallback, and **LIME**-based local interpretability for real-time log explanations
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=piyanshugehani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
