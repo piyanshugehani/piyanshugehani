@@ -5,7 +5,7 @@
 {
   "role": "Full Stack Dev | AI Tinkerer",
   "skills": [
-    "Turning complex ideas into smooth, usable products",
+    "Turning complex ideas into smooth, usable products (without breaking them :D)",
     "Working with data, LLMs, and end-to-end systems"
   ],
   "currentQuest": "Leveling up DSA & exploring more GenAI use cases in finance and edtech",
